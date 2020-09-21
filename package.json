@@ -2,7 +2,7 @@
   "name": "lib-jitsi-dist",
   "version": "1.0.0",
   "description": "",
-  "main": "lib-jits-meet.min.js",
+  "main": "lib-jitsi-meet.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
