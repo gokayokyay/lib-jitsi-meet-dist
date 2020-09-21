@@ -1,0 +1,19 @@
+{
+  "name": "lib-jitsi-dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib-jits-meet.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokayokyay/lib-jitsi-meet-dist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokayokyay/lib-jitsi-meet-dist/issues"
+  },
+  "homepage": "https://github.com/gokayokyay/lib-jitsi-meet-dist#readme"
+}
